@@ -1,0 +1,4 @@
+j'ai choisi d'implémenter la pile en utilisant une liste chaînée car :
+Dynamisme : La gestion dynamique de la mémoire permet une taille de pile variable.
+Facilité d'insertion suppression : Les opérations d'empilement dépilement sont efficaces avec une liste chaînée.
+Accès direct au sommet : Le premier élément de la liste représente toujours le sommet de la pile.
